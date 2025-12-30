@@ -13,7 +13,7 @@ A full-stack chat application built with the MERN stack, featuring real-time mes
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-[Demo](#) • [Features](#-features) • [Installation](#-installation) • [Usage](#-usage)
+[Demo](https://mern-chatapp-production-a75e.up.railway.app/) • [Features](#-features) • [Installation](#-installation) • [Usage](#-usage)
 
 </div>
 
